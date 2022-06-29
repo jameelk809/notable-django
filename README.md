@@ -4,3 +4,5 @@
 <p align="center">
     A Django Python-based Note-keeping application.
 </p>
+
+- under development
